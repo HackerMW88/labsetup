@@ -1,6 +1,6 @@
-# Home-Lab-VM
+# Lab-Setup
 
-A home lab for ethical hacking can be set up using a virtual machine (VM) such as VirtualBox. The lab can be used to simulate a real-world environment, allowing users to practice their ethical hacking skills in a safe and secure environment. Here is how a basic home lab for ethical hacking can be set up using VirtualBox:
+A lab for ethical hacking can be set up using a virtual machine (VM) such as VirtualBox. The lab can be used to simulate a real-world environment, allowing users to practice their ethical hacking skills in a safe and secure environment. Here is how a basic home lab for ethical hacking can be set up using VirtualBox:
 
 1. Download and install the latest version of VirtualBox.
 
@@ -24,19 +24,6 @@ Oracle VM Virtual Box : https://www.virtualbox.org/wiki/Downloads
 
 10. Use the results of your tests to improve your ethical hacking skills.
 
-
-
-# The advantages of using a local Home Lab are :
-
-1. Cost-Effective: One of the main benefits of using a local VM home lab for ethical hacking is its cost-effectiveness. It is much cheaper to set up and maintain a home lab than to purchase and maintain expensive hardware and software.
-
-2. Flexibility: With a home lab, a hacker can easily customize the environment to their exact needs. This makes it much easier to learn different techniques and develop new skills.
-
-3. Security: By keeping the lab local, the hacker can keep their data and activities secure from outside intrusions and vulnerabilities.
-
-4. Accessibility: A local VM home lab can be accessed from anywhere with an internet connection, making it ideal for those who travel or work from home.
-
-5. Scalability: The lab can easily be expanded as needed to accommodate more machines or other components. This allows for the flexibility to experiment with different techniques and technologies.
 
 # My Personal Home Lab : 
 
